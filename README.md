@@ -1,7 +1,9 @@
 ## Hi there 👋 I am Kashvi Virmani, a MERN Stack and AIML enthusiast.
 
 🔭 Delving into the fascinating world of AI.
+
 🌱 Passionate to merge my web dev skills with artificial intelligence!
+
 👯 Passionate about DSA and problem solving
 
 Goal for 2026: Build projects integrating web development and AIML.
